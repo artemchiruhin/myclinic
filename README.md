@@ -50,9 +50,9 @@
 | 21 | /admin/feedbacks/{feedback}/approve | admin.feedbacks.approve | PUT       | auth, admin | FeedbackController, approve  |
 | 22 | /admin/feedbacks/{feedback} | admin.feedbacks.destroy | DELETE       | auth, admin | FeedbackController, destroy  |
 
-## :deciduous_tree: Структура функциональной части проекта проекта
+## :deciduous_tree: Файловая структура функциональной части проекта проекта
 
-Что создано мной и **важно** показать. Как видите, всё распределено по своим разделам.
+Что создано мной. Как видите, всё распределено по своим разделам.
 ```
 .
 ├── app
